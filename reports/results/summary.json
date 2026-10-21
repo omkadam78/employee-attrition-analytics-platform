@@ -1,0 +1,15 @@
+{
+  "selected_model": "Logistic Regression",
+  "rows": 1470,
+  "attrition_rate": 0.16122448979591836,
+  "test_metrics": {
+    "Accuracy": 0.7721088435374149,
+    "Precision": 0.38095238095238093,
+    "Recall": 0.6808510638297872,
+    "F1": 0.48854961832061067,
+    "ROC-AUC": 0.8123869411663364,
+    "CV ROC-AUC": 0.8312163850635665
+  },
+  "selection_criterion": "highest held-out ROC-AUC with five-fold CV reported",
+  "ibm_deployment_status": "not deployed because credentials were not supplied"
+}
